@@ -1,0 +1,3 @@
+const ID_TOKEN = "ID_TOKEN";
+const REFRESH_TOKEN = "REFRESH_TOKEN";
+const EMAIL = "EMAIL";

@@ -1,0 +1,1046 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "archive",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/archive-3.3.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "audio_session",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/audio_session-0.1.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "auto_size_text",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/auto_size_text-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "cached_network_image",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image-3.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cached_network_image_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image_platform_interface-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cached_network_image_web",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image_web-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/charcode-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "chewie",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/chewie-1.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cross_file",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/cross_file-0.3.3+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "csslib",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/csslib-0.17.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dartz",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/dartz-0.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dbus",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/dbus-0.7.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "device_info_plus",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus-9.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "device_info_plus_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus_platform_interface-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dio",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/dio-5.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "expansion_widget",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/expansion_widget-0.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "file_selector_linux",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/file_selector_linux-0.9.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "file_selector_macos",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/file_selector_macos-0.9.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "file_selector_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/file_selector_platform_interface-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "file_selector_windows",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/file_selector_windows-0.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///C:/src/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_blurhash",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_blurhash-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "flutter_cache_manager",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_cache_manager-3.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_keyboard_visibility",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility-5.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_linux",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_linux-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_macos",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_macos-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_platform_interface-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_web",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_web-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_keyboard_visibility_windows",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_keyboard_visibility_windows-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_modular",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_modular-5.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_modular_annotations",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_modular_annotations-0.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_svg-2.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///C:/src/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_triple",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_triple-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///C:/src/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_widget_from_html",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_widget_from_html-0.10.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_widget_from_html_core",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_widget_from_html_core-0.10.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "flutter_zoom_drawer",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_zoom_drawer-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "fwfh_cached_network_image",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_cached_network_image-0.7.0+5",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "fwfh_chewie",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_chewie-0.7.1+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "fwfh_just_audio",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_just_audio-0.9.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "fwfh_svg",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_svg-0.8.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "fwfh_text_style",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_text_style-2.22.8+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "fwfh_url_launcher",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_url_launcher-0.9.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "fwfh_webview",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/fwfh_webview-0.7.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "get",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/get-4.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "html",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/html-0.15.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/image-3.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "image_picker",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_android",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_android-0.8.7+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_for_web",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_for_web-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_ios",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_ios-0.8.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_linux",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_linux-0.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_macos",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_macos-0.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_platform_interface-2.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_windows",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_windows-0.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "just_audio",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/just_audio-0.9.34",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "just_audio_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/just_audio_platform_interface-4.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "just_audio_web",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/just_audio_web-0.4.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/logging-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/mime-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "mobx",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/mobx-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "mobx_triple",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/mobx_triple-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "modal_progress_hud_nsn",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/modal_progress_hud_nsn-0.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "modular_core",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/modular_core-2.0.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "modular_interfaces",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/modular_interfaces-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "octo_image",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/octo_image-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_info_plus",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "package_info_plus_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_platform_interface-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "path_provider_android",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "path_provider_foundation",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_linux-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_platform_interface-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "permission_handler",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler-10.4.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_android",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler_android-10.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_apple",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler_apple-9.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler_platform_interface-3.11.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "permission_handler_windows",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler_windows-0.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/pointycastle-3.7.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "readmore",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/readmore-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "rx_notifier",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/rx_notifier-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "rx_notifier_annotation",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/rx_notifier_annotation-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/rxdart-0.27.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "shared_preferences_android",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "shared_preferences_foundation",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_foundation-2.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_linux-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_platform_interface-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_web-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_windows-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///C:/src/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "smooth_page_indicator",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/smooth_page_indicator-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqflite",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_common-2.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "syncfusion_flutter_core",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_core-22.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_flutter_pdf",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_pdf-22.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_flutter_pdfviewer",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_pdfviewer-22.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_flutter_signaturepad",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_flutter_signaturepad-22.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_pdfviewer_macos",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_pdfviewer_macos-22.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_pdfviewer_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_pdfviewer_platform_interface-22.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_pdfviewer_web",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_pdfviewer_web-22.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_pdfviewer_windows",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/syncfusion_pdfviewer_windows-22.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/synchronized-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "triple",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/triple-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "universal_html",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/universal_html-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "universal_io",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/universal_io-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "url_launcher",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.1.12",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "url_launcher_android",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.38",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "url_launcher_ios",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_ios-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_macos-3.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_platform_interface-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_web-2.0.18",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-3.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_graphics",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics-1.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_codec-1.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_compiler-1.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "video_player",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/video_player-2.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "video_player_android",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_android-2.4.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "video_player_avfoundation",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_avfoundation-2.4.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "video_player_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_platform_interface-6.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "video_player_web",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_web-2.0.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "wakelock_plus",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock_plus-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "wakelock_plus_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/wakelock_plus_platform_interface-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.1.4-beta",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "webview_flutter",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter-4.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "webview_flutter_android",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_android-3.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "webview_flutter_platform_interface",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_platform_interface-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "webview_flutter_wkwebview",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_wkwebview-3.7.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "wide_vimeo",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/wide_vimeo-0.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "win32_registry",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/win32_registry-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/Victor/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "module_external_dependencies",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2023-08-11T13:42:33.198064Z",
+  "generator": "pub",
+  "generatorVersion": "3.2.0-58.0.dev"
+}

@@ -1,0 +1,45 @@
+name: module_external_dependencies
+description: A new Flutter module project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_modular: ^5.0.3
+  mobx_triple: ^2.0.0
+  dio: ^5.2.1+1
+  dartz: ^0.10.1
+  cached_network_image: ^3.2.3
+  shared_preferences: ^2.1.2
+  flutter_svg: ^2.0.6
+  auto_size_text: ^3.0.0
+  flutter_keyboard_visibility: ^5.4.1
+  modal_progress_hud_nsn: ^0.4.0
+  smooth_page_indicator: ^1.1.0
+  flutter_zoom_drawer: ^3.1.1
+  flutter_cache_manager: ^3.3.1
+  just_audio: ^0.9.34
+  rxdart: ^0.27.7
+  readmore: ^2.2.0
+  expansion_widget: ^0.0.3
+  image_picker: ^1.0.1
+  convert: 3.1.1
+  image: ^3.0.1
+  wide_vimeo: ^0.0.1
+  path_provider: ^2.0.15
+  permission_handler: ^10.4.3
+  image_picker_ios: ^0.8.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  uses-material-design: true
